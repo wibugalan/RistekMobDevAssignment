@@ -1,6 +1,7 @@
 # calculator_ristek
 
-kalkulator sederhana untuk tugas mobdev Ristek dengan menggunakan Flutter
+Simple calculator for RISTEK Mobile Development assignment using Flutter.
+Install "Calculator_Ristek (Muhammad Marsha Prawira).apk" to check the application.
 
 ## Getting Started
 
