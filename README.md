@@ -1,6 +1,6 @@
 # calculator_ristek
 
-kalkulator sederhana untuk tugas mobdev Ristek
+kalkulator sederhana untuk tugas mobdev Ristek dengan menggunakan Flutter
 
 ## Getting Started
 
